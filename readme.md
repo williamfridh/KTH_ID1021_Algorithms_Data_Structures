@@ -4,6 +4,6 @@
 
 **"A basic course in computer science, that will give prerequisites for several advanced courses in computer science. The course will cover both theory on algorithms and data structures as well as practical software design." - www.kth.se**
 
-Thie repository contains solutions and reports to all but one assignment in the course ID1021. The assignment missing is called Dijkstra's Algorithm and is avalible on other repositories (won't be listed). I've posted these soltuions as I know that they can came as handy when students gets stuck and/or needs inspiration to solve similar problems.
+This repository contains solutions and reports to all but one assignment in the course [ID1021](https://www.kth.se/student/kurser/kurs/ID1021). The assignment missing is called Dijkstra's Algorithm and is available on other repositories (won't be listed). I've posted these solutions as I know that they can came as handy when students gets stuck and/or needs inspiration to solve similar problems.
 
-Please avoid copying this work directly as it ruins the process of learning. Instead look at these solutions when your 100% stuck.
+Please avoid copying this work directly as it ruins the process of learning. Instead look at these solutions when you are 100% stuck.
